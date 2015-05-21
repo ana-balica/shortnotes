@@ -1,9 +1,12 @@
-Title       | "The Clean Code Talks -- Inheritance, Polymorphism, & Testing"
-Author      | Miško Hevery
-URL         | https://youtu.be/4F72VULWFvc
-Length      | 38:24
-Conference  | Google Tech Talks
-Date        | 20.11.2008
+            |                                                                |
+------------|----------------------------------------------------------------|
+Title       | "The Clean Code Talks -- Inheritance, Polymorphism, & Testing" |
+Author      | Miško Hevery                                                   |
+URL         | https://youtu.be/4F72VULWFvc                                   |
+Length      | 38:24                                                          |
+Conference  | Google Tech Talks                                              |
+Date        | 20.11.2008                                                     |
+
 
 Intro
 -----
